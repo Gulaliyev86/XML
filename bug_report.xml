@@ -1,1 +1,12 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <Bug_id>1</Bug_id>
+  <Title>Вместо названия заголовков имени, фамилии, отчества, номера телефона, имейла написано 'FIELD.NA'</Title>
+  <Severity>Major</Severity>
+  <Priority>Medium</Priority>
+  <Environment>IOS v:15.6. Safari</Environment>
+  <STR>1) Немного пролистать вниз 2) выбрать Мухтара 3) Нажать кнопку приютить</STR>
+  <AR>Вместо заголовков полей написано FIELD.NA</AR>
+  <ER>Заголовки полей отображаются</ER>
+  <Attachemnt>http://130.193.37.179/app/pets</Attachemnt>
+</bug_report>
